@@ -1,9 +1,11 @@
 Introduction
+
 Depression detection using machine learning is a vital area of research given the global burden of mental health disorders. This project explores two primary methodologies: leveraging depression quiz tests and analyzing sentences. Depression quizzes, established diagnostic tools, provide structured assessments of individuals' emotional states. By employing machine learning algorithms trained on data from these quizzes, we aim to classify individuals as either depressed or non-depressed based on their responses.
 Furthermore, the project delves into the analysis of natural language data. Individuals with depression often exhibit distinct linguistic patterns, including increased usage of negative words and expressions of sadness. Machine learning models trained on large text datasets can learn to identify these patterns, enabling the classification of new text inputs as indicative of depression or not.
 Problem Statement
 The problem at hand is the efficient and accurate detection of depression using machine learning techniques. Despite the prevalence and impact of depression on individuals' well-being, current methods for detection often rely on subjective assessments or self-reporting, which can be prone to bias and inaccuracies. The objective of this project is to develop a robust depression detection system that addresses this challenge by leveraging two main approaches: depression quiz tests and sentence-based analysis.
 Methodology
+
 Methodology for Depression Quiz Test Approach:
 Data Collection: Gather a diverse dataset comprising responses to standardized depression quiz tests, such as the Patient Health Questionnaire (PHQ-9) or the Beck Depression Inventory (BDI), from clinical settings or online platforms.
 Data Preprocessing: Clean and preprocess the collected data, including handling missing values, normalizing responses, and encoding categorical variables.
